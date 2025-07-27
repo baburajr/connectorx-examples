@@ -1,0 +1,4 @@
+connectorx
+polars
+pandas
+sqlalchemy
